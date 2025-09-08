@@ -1,20 +1,21 @@
 <!-- Profile README for sahira4710 -->
 
-<h1 align="center" style="color:gold; background-color:black; padding:10px; border-radius:10px;">
-  ⚡ Hey there, I'm Sahi! 🤖✨
-</h1>
+<h1 align="center">こんにちは, I'm</h1>
 
-<p align="center" style="background-color:black; padding:15px; border-radius:15px;">
-  <img src="sahi.png" alt="Profile Picture" width="200" style="border-radius:50%; border: 4px solid gold;" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Sahi+🤖;Web+%26+App+Designer;UI%2FUX+Explorer;Music+%26+Fiction+Writer;Hiker+%26+Cyclist" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="sahi.png" alt="Profile Picture" width="200" style="border-radius:50%; border:4px solid gold;" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me  
-Hey! I'm **Sahi**, a creative explorer of the IT universe 🌐.  
-I love crafting **Web & App Designs, UI/UX, and E-learning projects**,  
-while balancing life with **classic hip-hop beats 🎶**, **fiction writing ✍️**, **hiking ⛰️**, and **cycling 🚴**.  
-I thrive on learning new things, making friends, and building fun projects ⚡.  
+Hi! I'm **Sahi**, a curious soul who loves learning new things in the IT world 🌐.  
+I’m passionate about **Web & App Design, UI/UX, and E-learning**, while also enjoying **classic hip-hop music 🎶**, writing **fiction ✍️**, going **hiking ⛰️**, and **cycling 🚴**.  
+I enjoy meeting new people, making friends, and collaborating on creative projects ⚡.  
 
 ---
 
@@ -23,14 +24,14 @@ I thrive on learning new things, making friends, and building fun projects ⚡.
 - 🤖 UI/UX & E-learning  
 - 🕊️ Conflict Mediation  
 - 🎶 Music (Classic Hip-Hop)  
-- ✍️ Writing  
+- ✍️ Writing (Fiction)  
 - ⛰️ Hiking  
 - 🚴 Bicycling  
 
 ---
 
 ### 🌐 Connect with Me  
-<p align="center" style="background-color:black; padding:10px; border-radius:15px;">
+<p align="center">
   <a href="https://x.com/cobeliaew" target="_blank">
     <img src="https://img.shields.io/badge/X-FFD700?style=for-the-badge&logo=x&logoColor=black" />
   </a>
@@ -78,8 +79,19 @@ I thrive on learning new things, making friends, and building fun projects ⚡.
 
 ---
 
-⭐️ From [sahira4710](https://github.com/sahira4710) 🌟
+### 🎧 Now Playing: Fuji Kaze  
 
+<p align="center">
+  <a href="https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kbwnkyrwiv4fpllfz7zj7h7b3q&cover_image=true&theme=default&bar_color=FFD700&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+  <br>
+  <b>Currently vibin' to: <i>Shinunoga E-Wa</i> by Fuji Kaze 🎶</b>
+</p>
+
+---
+
+⭐️ From [sahira4710](https://github.com/sahira4710) 🌟
 
 
 
