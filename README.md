@@ -2,7 +2,7 @@
 
 <h1 align="center" style="color:gold">Hey there, I'm Sahi! 🤖✨</h1>
 <p align="center">
-  <img src="sahi.png.png" alt="Profile Picture" width="200" style="border-radius:50%;" />
+  <img src="sahi.png" alt="Profile Picture" width="200" style="border-radius:50%;" />
 </p>
 
 ---
