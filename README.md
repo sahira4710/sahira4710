@@ -83,7 +83,7 @@ I enjoy meeting new people, making friends, and collaborating on creative projec
 
 <p align="center">
   <a href="https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kbwnkyrwiv4fpllfz7zj7h7b3q&cover_image=true&theme=default&bar_color=FFD700&bar_color_cover=false" alt="Spotify Now Playing" />
+    <img src="https://i.scdn.co/image/ab67616d0000b273ad1c159f0f71b682cf75e73b" width="250" alt="Fuji Kaze - Shinunoga E-Wa" />
   </a>
   <br>
   <b>Currently vibin' to: <i>Shinunoga E-Wa</i> by Fuji Kaze 🎶</b>
@@ -92,6 +92,5 @@ I enjoy meeting new people, making friends, and collaborating on creative projec
 ---
 
 ⭐️ From [sahira4710](https://github.com/sahira4710) 🌟
-
 
 
